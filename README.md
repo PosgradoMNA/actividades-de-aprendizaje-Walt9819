@@ -12,3 +12,12 @@ Los siguiente hipervínculos llevan a mis trabajos en cada sección/módulo:
 - [Módulo 2](IBM_certificate/Modulo2.ipynb)
 - [Módulo 3](IBM_certificate/Modulo3.ipynb)
 - [Módulo 4](IBM_certificate/Modulo4.ipynb)
+- [Módulo 5](IBM_certificate/Modulo5.ipynb)
+
+Igualmente se pueden ver las carpetas con mis Notebooks de los labs y los ejercicios del curso en los siguientes hipervínculos:
+
+- [Módulo 1](IBM_certificate/Module_1)
+- [Módulo 2](IBM_certificate/Module_2)
+- [Módulo 3](IBM_certificate/Module_3)
+- [Módulo 4](IBM_certificate/Module_4)
+- [Módulo 5](IBM_certificate/Module_5)
