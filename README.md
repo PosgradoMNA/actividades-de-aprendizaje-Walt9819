@@ -43,3 +43,4 @@ Igualmente se pueden ver las carpetas con mis Notebooks de los labs y los ejerci
 
 - [Módulo 1](IBM_certificate/Data_Analysis_Python/Module_1)
 - [Módulo 2](IBM_certificate/Data_Analysis_Python/Module_2)
+- [Módulo 3](IBM_certificate/Data_Analysis_Python/Module_3)
