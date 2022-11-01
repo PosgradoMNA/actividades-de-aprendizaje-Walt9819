@@ -42,6 +42,7 @@ Los siguiente hipervínculos llevan a mis trabajos en cada sección/módulo:
 - [Módulo 2](IBM_certificate/Data_Analysis_Python/Modulo2.ipynb)
 - [Módulo 3](IBM_certificate/Data_Analysis_Python/Modulo3.ipynb)
 - [Módulo 4](IBM_certificate/Data_Analysis_Python/Modulo4.ipynb)
+- [Módulo 5](IBM_certificate/Data_Analysis_Python/Modulo5.ipynb)
 
 Igualmente se pueden ver las carpetas con mis Notebooks de los labs y los ejercicios del curso en los siguientes hipervínculos:
 
@@ -49,3 +50,4 @@ Igualmente se pueden ver las carpetas con mis Notebooks de los labs y los ejerci
 - [Módulo 2](IBM_certificate/Data_Analysis_Python/Module_2)
 - [Módulo 3](IBM_certificate/Data_Analysis_Python/Module_3)
 - [Módulo 4](IBM_certificate/Data_Analysis_Python/Module_4)
+- [Módulo 5](IBM_certificate/Data_Analysis_Python/Module_5)
