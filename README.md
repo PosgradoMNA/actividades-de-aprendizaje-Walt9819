@@ -4,6 +4,8 @@ Aqui estarán mis actividades de cada semana
 
 ### Actividades
 - [Semana 3 - Actividad 1](Week3/Activity1.ipynb)
+- [Semana 5 - Actividad 5](Week5/Reduccion_dimensiones.ipynb)
+- [Semana 6 - Actividad 6](Week5/Visualizacion.ipynb)
 
 ### Certificado IBM
 
